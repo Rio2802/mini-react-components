@@ -1,13 +1,25 @@
-# mini-react-components
 @'
 # 🧩 Mini React Components
 
-Reusable modern React UI components with Tailwind CSS and animations.
-'@ > README.md
+Reusable modern React UI components built with **React + Tailwind CSS + Framer Motion** ✨
 
-# python-utils
-@'
-# 🐍 Python Utils
+---
 
-A collection of handy Python scripts for automation, APIs, and data handling.
-'@ > README.md
+### ⚙️ Features
+- 🎨 Beautiful responsive UI components
+- ⚡ Reusable, customizable
+- 📦 Easy to import
+
+---
+
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,vite" />
+</p>
+
+---
+
+### 📦 Installation
+```bash
+npm install mini-react-components
+    
