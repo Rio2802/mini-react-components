@@ -1,4 +1,3 @@
-@'
 # 🧩 Mini React Components
 
 Reusable modern React UI components built with **React + Tailwind CSS + Framer Motion** ✨
